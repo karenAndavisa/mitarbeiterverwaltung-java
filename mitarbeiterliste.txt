@@ -1,0 +1,15 @@
+0;karen;andavisa;kamdaviza03@gmail.com;51121654z;5112165885;03.07.1975;ireoihoihe;krgj;lrktgj;lög;1;MINIJOB;PERSONAL;PERSONALMANAGER;FORBILDUNG;15.09.2025;
+1;Eliana;Cordova;elianaci@gmail.com;214569845l;45978512365;21.04.1975;cojsdgfgdfhg 45;spanierin;54871;kgjklgj;2;TEILZEIT;LOGISTIK;SOUS_CHEF;URLAUB;16.09.2025;
+2;Carmen;Castaneda;castanecar@gmail.com;54879654h;45987562;23.07.1970;fefjifjf 21;peru;peruana;verheiratet;2;BEFRISTET;FINANZEN;TEAMLEITER;URLAUB;16.09.2025;
+3;leticia;carbonero;leticiacar@gmail.com;5265458o;547896245;03.07.1975;klrefhjkrhgh 456;rufhuih;rpof;fmmr;eins;BEFRISTET;FINANZEN;KOCH;KRANK;16.09.2025;
+4;susana;valdez;kamfst@jhg.es;458935x;456987423;03.04.1945;kjrfehkfh;lrkffrk;lrkfrf;leklkr;tres;BEFRISTET;FINANZEN;KOCH;ANWESEND;16.09.2025;
+5;laura;ramirez;lauram@google.de;54871u;54126987;03.05.1975;fgihjihj;spanien;spanierin;verheiratet;5;VOLLZEIT;IT;TEAMLEITER;ABWESEND;16.09.2025;
+6;raquel;timana palacios;tiparasd@gmail.de;45887po;547865214;03.11.1990;iozhtioh;rotiz;tkjzk;lhk;eins;TEILZEIT;IT;IT_SPEZIALIST;FORBILDUNG;16.09.2025;
+1;Eliza;Carbonero;kamgrdt@dft.es;45698745G;154879;25.09.1992;las musas 45, santa victoria;Deutchland;Deutchland;casada;2;UNBEFRISTET;FINANZEN;PERSONALMANAGER;ABWESEND;18.09.2025;
+1;Karen;Andavisa;Kamdaviza03@gmail.com;51121654Z;554789621;09.09.2025;kfjdkljglgj;kflkfjglgl;dkslfkjjf;kfjjkjj;5;UNBEFRISTET;MARKETING;PERSONALMANAGER;FORBILDUNG;18.09.2025;
+1;Sebastian;Pribnow;kamdaviza03@gmail.com;45698754;55789545;15.09.2025;jhhggh;plkjj;gfdss;iztr;1;BEFRISTET;IT;BUCHHALTER;KRANK;18.09.2025;
+1;karen;andavisa;kamdaviza03@gmail.com;51121654Z;54789654;13.09.2019;kdkfrjefherfjh 54;kjrefh;rpfkfk;peroj;kfjh;UNBEFRISTET;VERTRIEB;PERSONALMANAGER;FORBILDUNG;18.09.2025;
+1;karen;andavisa;kamdaviza03@gmail.com;51121654Z;545878;15.09.2025;dfkgjkgjlls;kjlkjlkknh;äüälök;äkjjnäö;5;BEFRISTET;VERTRIEB;TEAMLEITER;KRANK;18.09.2025;
+1;karen;Andavisa;kamdaviza03@gmail.com;51121654Z;5454454;20.09.2018;löejfej;lrföerjlf;ewdöldl;ufz;5;BEFRISTET;VERTRIEB;BUCHHALTER;FORBILDUNG;18.09.2025;
+1;karen;andavisa;kamdaviza03@gmail.com;51121654Z;546422132;30.09.2025;hhghhtz;trgrt;rtgrg;rggrg;rgg;UNBEFRISTET;MARKETING;BUCHHALTER;FORBILDUNG;18.09.2025;
+1;karen;Andavisa;kamdaviza03@gmail.com;51121654Z;545464646;30.09.2025;oerpeorpo;er4iruoi4u;r9u094ur0;zerz9z8;6;UNBEFRISTET;MARKETING;TEAMLEITER;URLAUB;18.09.2025;
